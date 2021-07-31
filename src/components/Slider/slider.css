@@ -1,8 +1,11 @@
-.carousel-inner {
+.carousel-item img {
+	/* display: block; */
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+.carousel {
 	display: block;
 	content: '';
-	height: 97vh;
-}
-.carousel-item img {
-	object-fit: cover;
+	/* height: 10vh; */
 }
