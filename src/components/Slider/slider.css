@@ -1,0 +1,8 @@
+.carousel-inner {
+	display: block;
+	content: '';
+	height: 97vh;
+}
+.carousel-item img {
+	object-fit: cover;
+}
